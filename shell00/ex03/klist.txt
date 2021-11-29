@@ -1,0 +1,5 @@
+Credentials cache: API:4306
+        Principal: tel-bouh@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 15:54:14 2021  Aug  9 15:53:42 2021  krbtgt/1337.MA@1337.MA
